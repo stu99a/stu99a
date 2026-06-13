@@ -20,6 +20,7 @@ I also have professional experience in the security and intelligence sector, spe
 ### Business Analytics
 
 - [Superstore Business Analytics Case Study](https://github.com/stu99a/superstore-business-analytics-case-study)
+- [ClinicalTrials.gov Neurofibromatosis Data Engineering](https://github.com/stu99a/clinicaltrials-data-engineering)
 
 
 ### Data Engineering
