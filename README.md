@@ -19,14 +19,17 @@ I also have professional experience in the security and intelligence sector, spe
 
 ### Business Analytics
 
-- Vega IT Business Analytics Case Study
-- Retail Sales Analytics Dashboard
+- [Superstore Business Analytics Case Study](https://github.com/stu99a/superstore-business-analytics-case-study)
+
 
 ### Data Engineering
 
 - ClinicalTrials.gov Neurofibromatosis Data Engineering Project
-- Web Scraping Pipeline (Books to Scrape)
 
+
+### Web Scraping Pipeline (Books to Scrape)
+
+- Books to Scrape (coming soon)
 ---
 
 ## Technical Skills
