@@ -11,7 +11,7 @@ Data Analyst and Data Engineer with experience in:
 - Data Visualization
 - Business Intelligence
 
-I also have professional experience in the security and intelligence sector, specializing in CBRNE and nuclear security.
+I also have professional experience in the security and intelligence sector, specializing in CBRNe.
 
 ---
 
