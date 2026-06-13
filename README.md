@@ -45,7 +45,7 @@ I also have professional experience in the security and intelligence sector, spe
 
 ### Visualization
 - Power BI
-- Tableau
+- Google Looker
 
 ### Databases
 - PostgreSQL
