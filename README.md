@@ -1,4 +1,4 @@
-# Hi, Josiah Mathew here
+# Josiah Mathew
 Data Analyst | Data Engineer | Python | SQL | Power BI | CBRNE Professional
 ## About
 
@@ -20,17 +20,16 @@ I also have professional experience in the security and intelligence sector, spe
 ### Business Analytics
 
 - [Superstore Business Analytics Case Study](https://github.com/stu99a/superstore-business-analytics-case-study)
-
+- End-to-end business analytics project using Python, Power BI, and exploratory data analysis to identify sales, profit, and customer trends.
 
 ### Data Engineering
 
 - [ClinicalTrials.gov Neurofibromatosis Data Engineering](https://github.com/stu99a/clinicaltrials-data-engineering)
-
+- Python-based data pipeline for extracting, transforming, and storing clinical trial data from the ClinicalTrials.gov API using MongoDB.
 
 ### Web Scraping Pipeline (Books to Scrape)
 
 - Books to Scrape (coming soon)
----
 
 ## Technical Skills
 
