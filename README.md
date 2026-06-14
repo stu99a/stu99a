@@ -1,5 +1,5 @@
 # Josiah Mathew
-Data Analyst | Data Engineer | Python | SQL | Power BI | CBRNE Professional
+Data Analyst | Data Engineer | Python | SQL | Power BI | CBRNe Professional
 ## About
 
 Data Analyst and Data Engineer with experience in:
