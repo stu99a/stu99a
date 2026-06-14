@@ -27,7 +27,7 @@ I also have professional experience in the security and intelligence sector, spe
 - [ClinicalTrials.gov Neurofibromatosis Data Engineering](https://github.com/stu99a/clinicaltrials-data-engineering)
     Python-based data pipeline for extracting, transforming, and storing clinical trial data from the ClinicalTrials.gov API using MongoDB.
 
-### Web Scraping Pipeline (Books to Scrape)
+### Web Scraping Pipeline
 
 - Coming soon 
 
