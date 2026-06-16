@@ -21,8 +21,8 @@ I also have professional experience in the security and intelligence sector, spe
 
 - [Superstore Business Analytics Case Study](https://github.com/stu99a/superstore-business-analytics-case-study)
     End-to-end business analytics project using Python, Power BI, and exploratory data analysis to identify sales, profit, and customer trends.
-  [JPMorgan Chase Quantitative Research](https://github.com/stu99a/jpmorgan-quantitative-research-forage-)
-
+- [JPMorgan Chase Quantitative Research](https://github.com/stu99a/jpmorgan-quantitative-research-forage-)
+    Quantitative research project using Python, machine learning, and statistical modeling to forecast commodity prices, value storage contracts, estimate credit default risk, and develop FICO-based risk rating systems.
 ### Data Engineering
 
 - [ClinicalTrials.gov Neurofibromatosis Data Engineering](https://github.com/stu99a/clinicaltrials-data-engineering)
