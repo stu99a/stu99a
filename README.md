@@ -23,6 +23,9 @@ I also have professional experience in the security and intelligence sector, spe
     End-to-end business analytics project using Python, Power BI, and exploratory data analysis to identify sales, profit, and customer trends.
 - [JPMorgan Chase Quantitative Research](https://github.com/stu99a/jpmorgan-quantitative-research-forage-)
     Quantitative research project using Python, machine learning, and statistical modeling to forecast commodity prices, value storage contracts, estimate credit default risk, and develop FICO-based risk rating systems.
+- [E-Commerce Database Management System](https://github.com/stu99a/ecommerce-database-sql-project)
+    Designed and developed a relational e-commerce database using SQL and SQLite. Built interconnected tables for customers, products, orders, deliveries, employees, and feedback while enforcing data integrity through primary     and foreign key relationships
+  
 ### Data Engineering
 
 - [ClinicalTrials.gov Neurofibromatosis Data Engineering](https://github.com/stu99a/clinicaltrials-data-engineering)
