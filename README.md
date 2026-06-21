@@ -25,6 +25,11 @@ I also have professional experience in the security and intelligence sector, spe
     Quantitative research project using Python, machine learning, and statistical modeling to forecast commodity prices, value storage contracts, estimate credit default risk, and develop FICO-based risk rating systems.
 - [E-Commerce Database Management System](https://github.com/stu99a/ecommerce-database-sql-project)
     Designed and developed a relational e-commerce database using SQL and SQLite. Built interconnected tables for customers, products, orders, deliveries, employees, and feedback while enforcing data integrity through primary     and foreign key relationships
+
+### Security Intelligence Analytics
+
+- [Global Terrorism Intelligence Analytics]([https://github.com/stu99a/superstore-business-analytics-case-study](https://github.com/stu99a/global-terrorism-intelligence-analytics))
+    End-to-end intelligence analytics project analyzing over 200,000 terrorism incidents using Python, SQL, SQLite, and Power BI. Identified attack patterns, regional hotspots, organizational activity, and historical trends       through geospatial analysis and interactive dashboards.
   
 ### Data Engineering
 
@@ -33,7 +38,7 @@ I also have professional experience in the security and intelligence sector, spe
 
 ### Web Scraping Pipeline
 
-- Coming soon 
+- Uploading... 
 
 ## Technical Skills
 
