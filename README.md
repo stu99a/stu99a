@@ -28,7 +28,7 @@ I also have professional experience in the security and intelligence sector, spe
 
 ### Security Intelligence Analytics
 
-- [Global Terrorism Intelligence Analytics]([https://github.com/stu99a/superstore-business-analytics-case-study](https://github.com/stu99a/global-terrorism-intelligence-analytics))
+- [Global Terrorism Intelligence Analytics](https://github.com/stu99a/global-terrorism-intelligence-analytics)
     End-to-end intelligence analytics project analyzing over 200,000 terrorism incidents using Python, SQL, SQLite, and Power BI. Identified attack patterns, regional hotspots, organizational activity, and historical trends       through geospatial analysis and interactive dashboards.
   
 ### Data Engineering
