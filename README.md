@@ -55,6 +55,7 @@ I also have professional experience in the security and intelligence sector, spe
 - Power BI
 - Google Looker
 - Tableau
+- Plotly
 
 ### Databases
 - PostgreSQL
@@ -65,6 +66,9 @@ I also have professional experience in the security and intelligence sector, spe
 - Git
 - GitHub
 - Jupyter Notebook
+- Visual Studio Code (VS Code)
+- IBM SPSS Statistics
+- IBM Cognos Analytics
 
 ---
 
