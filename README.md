@@ -38,7 +38,8 @@ I also have professional experience in the security and intelligence sector, spe
 
 ### Web Scraping Pipeline
 
-- Uploading... 
+- [Books to Scrape ETL Pipeline](https://github.com/stu99a/books-to-scrape-etl-analytics)
+    End-to-end ETL and analytics pipeline that scrapes book data, performs data cleaning and exploratory analysis, stores data in SQLite, and answers business questions using SQL.
 
 ## Technical Skills
 
