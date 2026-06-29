@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-green)
 ![SQL](https://img.shields.io/badge/SQL-blue)
 ![Power_BI](https://img.shields.io/badge/Power_BI-yellow)
-![CBRNe_Professional](https://img.shields.io/badge/CBRNe_Professional-red)
+![CBRNe_Professional](https://img.shields.io/badge/CBRNe_Professional-maroon)
 
 ## About
 
