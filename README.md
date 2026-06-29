@@ -1,7 +1,8 @@
 # Josiah Mathew
-Data Analyst | Data Engineer | Python | SQL | Power BI | CBRNe Professional
+Python | SQL | Power BI | CBRNe Professional
 ![Data-Analyst](https://img.shields.io/badge/Data-Analyst-lightgrey)
-![Data-Engineer](https://img.shields.io/badge/Data-Engineer-nude)
+![Data-Engineer](https://img.shields.io/badge/Data-Engineer-dakrgreen)
+![Python](https://img.shields.io/badge/Python-creambrown)
 ## About
 
 Data Analyst and Data Engineer with experience in:
