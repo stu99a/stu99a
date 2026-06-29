@@ -1,6 +1,6 @@
 # Josiah Mathew
 ![Data_Analyst](https://img.shields.io/badge/Data_Analyst-grey)
-![Data_Engineer](https://img.shields.io/badge/Data_Engineer-lightgrey)
+![Data_Engineer](https://img.shields.io/badge/Data_Engineer-black)
 ![Python](https://img.shields.io/badge/Python-green)
 ![SQL](https://img.shields.io/badge/SQL-blue)
 ![Power_BI](https://img.shields.io/badge/Power_BI-yellow)
